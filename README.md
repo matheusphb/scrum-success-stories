@@ -21,14 +21,6 @@ Se você tem um estudo de caso sobre a implementação de Scrum em sua organiza�
 3. Adicione seu estudo de caso no formato markdown (`.md`).
 4. Abra um Pull Request com a descrição das alterações.
 
-## Licença
-
-Este repositório está sob a licença [MIT](LICENSE), o que significa que você pode utilizá-lo e modificá-lo conforme sua necessidade, desde que forneça o devido crédito.
-
-## Contato
-
-Se você tiver alguma dúvida ou sugestão, pode entrar em contato com o mantenedor do repositório através do GitHub ou por email: [seu-email@dominio.com](mailto:seu-email@dominio.com).
-
 ---
 
 ## Sobre o Scrum
